@@ -1,0 +1,6 @@
+﻿owner=579159495830142977
+prefix=X
+game=Kenz ❤️
+stayinchannel=true
+songinstatus=false
+token=NjEyMzQ1NzExNTU1NjQxNDk4.XVhBng.fPEqADP8LCaMrlB5IC7Pv7xdehk
